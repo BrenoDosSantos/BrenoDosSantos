@@ -1,6 +1,8 @@
 ### Olá, seja bem-vindo 👋🏼
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/breno-augusto-1965961a0)
+Me conheça profissionalmente 👉🏼 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/breno-augusto-1965961a0)
+
+
 
 
 ## Tecnologias do meu dia-dia
